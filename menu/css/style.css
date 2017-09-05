@@ -1,0 +1,33 @@
+
+* {margin: 0;
+padding:0;}
+nav{
+	position: relative;
+	background: cyan;
+}
+ nav ul li{
+	display: inline-block;
+}
+nav .submenu {
+	
+	display: none;
+}
+
+nav .ancla:hover .submenu {
+	display: block;
+ }
+
+nav .submenu li {
+	display: block;
+	float: left;
+}
+
+.submenu ul {
+	margin:  20pt;
+}
+
+.lista {
+	position: absolute;
+	margin: 10px;
+	padding: 10px;
+}
