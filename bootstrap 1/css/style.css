@@ -1,0 +1,60 @@
+
+.alto{
+	height: 400px;
+}
+.alto2{ height: 100px;
+
+}
+.alto3{
+	height: 200px;
+}
+.blanco {
+	background-color: white;
+
+}
+.amarillo {
+	background-color: yellow;
+}
+.cyan {
+	background-color: cyan;
+}
+.verde {
+	background-color: green;
+}
+.rosa{
+	background-color: pink;
+}
+
+.rojo {
+	background-color: red;
+}
+ .azul{
+ 	background-color: blue;
+ }
+.negro {
+	background-color: black;
+}
+
+.gr {
+	background: #000000; /* Old Browsers */
+background: -webkit-linear-gradient(bottom right,#000000,#ffffff); /*Safari 5.1-6*/
+background: -o-linear-gradient(bottom right,#000000,#ffffff); /*Opera 11.1-12*/
+background: -moz-linear-gradient(bottom right,#000000,#ffffff); /*Fx 3.6-15*/
+background: linear-gradient(bottom right, #000000, #ffffff); /*Standard*/
+
+}
+
+/*.text-left {
+	text-align: left;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.text-center {
+	text-align: center;
+}
+.text-justify {
+	text-align: justify;
+}

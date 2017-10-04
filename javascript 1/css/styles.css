@@ -1,0 +1,16 @@
+*{margin: 3px; 
+text-align: center;}
+
+
+#container {border: 3px;
+border-style: dotted;
+box-shadow: 20px;
+width: 500px;
+
+}
+
+
+input {
+	width: 150px;
+}
+
